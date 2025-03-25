@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.0">
+        <ModelTarget name="3DBenchy" targetId="30190a245f514aecb53d99c1c69b5ad2" version="14.0" toolVersion="v7.2.0" bbox="-0.308250 -0.155020 0.000000 0.291760 0.155020 0.480000" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="3DBenchy" assemblyId="c87269c45bbe450e8b09c91df04bdaf8">
+        <Part name="3DBenchy" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
